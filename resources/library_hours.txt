@@ -1,0 +1,7 @@
+LIBRARY HOURS (DEMO RESOURCE)
+
+Monday to Friday: 9:00 AM to 5:00 PM
+Saturday: 9:00 AM to 1:00 PM
+Sunday: Closed
+
+Students should carry their identity card when borrowing books.
